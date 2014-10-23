@@ -1,0 +1,27 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "sweet api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanhca/chatty.git"
+  },
+  "keywords": [
+    "apple"
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanhca/chatty/issues"
+  },
+  "homepage": "https://github.com/ryanhca/chatty"
+}
